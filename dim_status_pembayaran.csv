@@ -1,0 +1,5 @@
+"id_status","nama_status","keterangan"
+"1","Berhasil","Pembayaran telah diterima"
+"2","Menunggu","Pembayaran belum dikonfirmasi"
+"3","Gagal","Pembayaran gagal diproses"
+"4","Dibatalkan","Pembayaran dibatalkan"
